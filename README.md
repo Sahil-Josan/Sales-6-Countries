@@ -4,9 +4,36 @@ Sales across 6 different countries
 
 This project presents an interactive Power BI Sales Dashboard that visualizes sales data across **six countries**—India, Nigeria, UK, US, Canada, and China. It provides key business insights on sales performance, profit, order distribution, discounts, and trends over time.
 
-## Dashboard Overview
 
-![sales-6-countries](https://github.com/user-attachments/assets/7d77ed3f-a41c-494e-9f1f-d83bfb68dbbb)
+## 📁 Data Sources
+
+This project uses cleaned and structured CSV files representing individual sales data for each country:
+
+
+[sales_Canada.csv](https://github.com/user-attachments/files/20203204/sales_Canada.csv)[sales_China.csv](https://github.com/user-attachments/files/20203205/sales_China.csv)[sales_US.csv](https://github.com/user-attachments/files/20203211/sales_US.csv)
+[sales_UK.csv](https://github.com/user-attachments/files/20203210/sales_UK.csv)
+[sales_Nigeria.csv](https://github.com/user-attachments/files/20203208/sales_Nigeria.csv)
+[sales_India.csv](https://github.com/user-attachments/files/20203207/sales_India.csv)
+
+
+Each dataset includes:
+- Date of Sale
+- Store Location
+- Product Category
+- Payment Method
+- Quantity
+- Price
+- Discount
+- Profit
+
+
+## 🛠️ Tools Used
+
+- **Power BI** for dashboard development and data visualization
+- **Microsoft Excel / CSV** for data preprocessing
+- **GitHub** for version control and repository management
+
+
 
 
 ### Key Metrics Displayed:
@@ -28,38 +55,12 @@ This project presents an interactive Power BI Sales Dashboard that visualizes sa
 
 ---
 
-## 📁 Data Sources
-
-This project uses cleaned and structured CSV files representing individual sales data for each country:
 
 
+## Dashboard Overview
 
+![sales-6-countries](https://github.com/user-attachments/assets/7d77ed3f-a41c-494e-9f1f-d83bfb68dbbb)
 
-[sales_Canada.csv](https://github.com/user-attachments/files/20203204/sales_Canada.csv)[sales_China.csv](https://github.com/user-attachments/files/20203205/sales_China.csv)[sales_US.csv](https://github.com/user-attachments/files/20203211/sales_US.csv)
-[sales_UK.csv](https://github.com/user-attachments/files/20203210/sales_UK.csv)
-[sales_Nigeria.csv](https://github.com/user-attachments/files/20203208/sales_Nigeria.csv)
-[sales_India.csv](https://github.com/user-attachments/files/20203207/sales_India.csv)
-
-
-Each dataset includes:
-- Date of Sale
-- Store Location
-- Product Category
-- Payment Method
-- Quantity
-- Price
-- Discount
-- Profit
-
----
-
-## 🛠️ Tools Used
-
-- **Power BI** for dashboard development and data visualization
-- **Microsoft Excel / CSV** for data preprocessing
-- **GitHub** for version control and repository management
-
----
 
 ## 🔍 Insights & Highlights
 
