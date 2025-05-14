@@ -1,5 +1,3 @@
-## Sales-6-Countries
-Sales across 6 different countries
 # 🌐 Sales Dashboard (6 Countries)
 
 This project presents an interactive Power BI Sales Dashboard that visualizes sales data across **six countries**—India, Nigeria, UK, US, Canada, and China. It provides key business insights on sales performance, profit, order distribution, discounts, and trends over time.
@@ -31,7 +29,7 @@ Each dataset includes:
 
 - **Power BI** for dashboard development and data visualization
 - **Microsoft Excel / CSV** for data preprocessing
-- **SQL for Querying and generating insights
+- **SQL** for Querying and generating insights
 - **GitHub** for version control and repository management
 
 
