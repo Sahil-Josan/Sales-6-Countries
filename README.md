@@ -6,7 +6,8 @@ This project presents an interactive Power BI Sales Dashboard that visualizes sa
 
 ## Dashboard Overview
 
-![Sales Dashboard](sales-6-countries.png)
+![sales-6-countries](https://github.com/user-attachments/assets/7d77ed3f-a41c-494e-9f1f-d83bfb68dbbb)
+
 
 ### Key Metrics Displayed:
 
