@@ -34,8 +34,6 @@ Each dataset includes:
 - **GitHub** for version control and repository management
 
 
-
-
 ### Key Metrics Displayed:
 
 - **Total Sales:** 1.73M
@@ -55,8 +53,6 @@ Each dataset includes:
 
 ---
 
-
-
 ## Dashboard Overview
 
 ![sales-6-countries](https://github.com/user-attachments/assets/7d77ed3f-a41c-494e-9f1f-d83bfb68dbbb)
@@ -69,7 +65,3 @@ Each dataset includes:
 - **Top Performing Country (Profit):** US & UK dominate in total profit despite higher discounts
 - **Payment Preference:** Credit Card leads with 36% share
 - **Monthly Sales Peak:** January ($441K), followed by March
-
----
-
-## 📂 Repository Structure
