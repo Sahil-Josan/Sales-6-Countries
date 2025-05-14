@@ -31,6 +31,7 @@ Each dataset includes:
 
 - **Power BI** for dashboard development and data visualization
 - **Microsoft Excel / CSV** for data preprocessing
+- **SQL for Querying and generating insights
 - **GitHub** for version control and repository management
 
 
@@ -50,8 +51,7 @@ Each dataset includes:
 - **Sales % by Payment Method**
 - **Daily Sales Trends**
 - **Total Sales by Category**
-
----
+- 
 
 ## Dashboard Overview
 
