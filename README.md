@@ -1,12 +1,10 @@
-[sales_Canada.csv](https://github.com/user-attachments/files/20203137/sales_Canada.csv)# Sales-6-Countries
+## Sales-6-Countries
 Sales across 6 different countries
-![sales-6-countries](https://github.com/user-attachments/assets/bf77681c-4216-4678-9f08-2ff3296007df)
-
 # 🌐 Sales Dashboard (6 Countries)
 
 This project presents an interactive Power BI Sales Dashboard that visualizes sales data across **six countries**—India, Nigeria, UK, US, Canada, and China. It provides key business insights on sales performance, profit, order distribution, discounts, and trends over time.
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 ![Sales Dashboard](sales-6-countries.png)
 
