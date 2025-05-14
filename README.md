@@ -1,4 +1,4 @@
-# Sales-6-Countries
+[sales_Canada.csv](https://github.com/user-attachments/files/20203137/sales_Canada.csv)# Sales-6-Countries
 Sales across 6 different countries
 ![sales-6-countries](https://github.com/user-attachments/assets/bf77681c-4216-4678-9f08-2ff3296007df)
 
@@ -33,12 +33,14 @@ This project presents an interactive Power BI Sales Dashboard that visualizes sa
 
 This project uses cleaned and structured CSV files representing individual sales data for each country:
 
-- `sales_India.csv`
-- `sales_Nigeria.csv`
-- `sales_UK.csv`
-- `sales_US.csv`
-- `sales_Canada.csv`
-- `sales_China.csv`
+
+
+
+[sales_Canada.csv](https://github.com/user-attachments/files/20203204/sales_Canada.csv)[sales_China.csv](https://github.com/user-attachments/files/20203205/sales_China.csv)[sales_US.csv](https://github.com/user-attachments/files/20203211/sales_US.csv)
+[sales_UK.csv](https://github.com/user-attachments/files/20203210/sales_UK.csv)
+[sales_Nigeria.csv](https://github.com/user-attachments/files/20203208/sales_Nigeria.csv)
+[sales_India.csv](https://github.com/user-attachments/files/20203207/sales_India.csv)
+
 
 Each dataset includes:
 - Date of Sale
